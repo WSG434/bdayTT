@@ -58,6 +58,7 @@ body {
   margin: 0;
   opacity: 0;
   display: none;
+  margin-bottom: 10px;
 }
 
 .slide.surprise h4 {
